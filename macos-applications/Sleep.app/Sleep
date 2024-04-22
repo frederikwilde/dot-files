@@ -1,0 +1,4 @@
+#!/bin/bash
+# An application to send Mac OS computers to sleep from the spotlight search.
+
+pmset sleepnow

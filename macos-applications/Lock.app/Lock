@@ -1,0 +1,4 @@
+#!/bin/bash
+# An application for Mac OS to lock the computer from the spotlight search.
+
+pmset displaysleepnow
